@@ -32,18 +32,8 @@
 
 ---
 
-### 📈 **Мои контрибуции**
 
 <div align="center">
-  
-![Граф контрибуций](https://github-readme-activity-graph.vercel.app/graph?username=nimbov&theme=react-dark&hide_border=true&area=true&height=300)
-
-</div>
-
-
-<div align="center">
-  
-**"Создаю интересны решения"** ☁️
 
  by [nimbov](https://github.com/nimbov)
 
