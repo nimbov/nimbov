@@ -2,15 +2,14 @@
 
 # 🌩️ Привет, я **nimbov**! 👋
 
-**Облачный инженер | Разработчик | Исследователь технологий**
 
 *Создаю решения на стыке облаков, автоматизации и разработки*
 
 <div align="center" style="margin: 20px 0;">
-  <a href="https://t.me/your_username" target="_blank">
+  <a href="https://t.me/nimbov target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&color=white&borderRadius=50px&padding=10px" alt="Telegram" style="border-radius: 50px; margin: 0 5px;">
   </a>
-  <a href="https://discord.com/users/your_username" target="_blank">
+  <a href="https://discord.com/users/1249441843741982845" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=white&borderRadius=50px&padding=10px" alt="Discord" style="border-radius: 50px; margin: 0 5px;">
   </a>
 </div>
