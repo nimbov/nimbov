@@ -22,15 +22,13 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 
---
+---
 
 ### 📊 **Статистика GitHub**
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimbov&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
-
---
 
 
 <div align="center">
