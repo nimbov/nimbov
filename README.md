@@ -2,7 +2,7 @@
 
 # 🌩️ Привет, я **nimbov**! 👋
 
-*Создаю уникальные решения*
+*Мои соцсети*
 
 <div align="center" style="margin: 20px 0;">
   <a href="https://t.me/nimbov" target="_blank">
