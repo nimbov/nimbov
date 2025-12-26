@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🌩️ Привет, я **nimbov**! 👋
+# 🌩️ Hello, I'm **nimbov**! 👋
 
-*Мои соцсети*
+*My Social Media*
 
 <div align="center" style="margin: 20px 0;">
   <a href="https://t.me/nimbov" target="_blank">
@@ -15,7 +15,7 @@
 
 ---
 
-**💻 Языки программирования:**  
+**💻 Programming Languages:**  
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
@@ -23,16 +23,17 @@
 
 ---
 
-### 📊 **Статистика GitHub**
+### 📊 **GitHub Statistics**
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimbov&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
+---
 
 <div align="center">
 
- by [nimbov](https://github.com/nimbov)
+by [nimbov](https://github.com/nimbov)
 
 </div>
 </div>
